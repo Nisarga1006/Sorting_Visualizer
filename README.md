@@ -2,7 +2,7 @@
 
 The Sorting Visualizer is a web application that demonstrates various sorting algorithms visually. It allows users to visualize the process of sorting an array, helping them understand how different algorithms work and how they compare in terms of efficiency.
 
-Check out the live demo of the Sorting Visualizer [[here]](https://prureddy.github.io/myPortfolio/)
+
 
 ## Features
 
